@@ -7,7 +7,7 @@ This project is for **learning and practicing Pandas** — a powerful Python lib
 
 You will work on reading data, cleaning it, analyzing it, and saving it using Pandas.
 
-## 📁 Dataset Used
+##  Dataset Used
 
 **`Students Social Media Addiction.csv`**  
 A dataset containing information about students, their social media usage, and how it affects their life and studies.
@@ -31,15 +31,14 @@ A dataset containing information about students, their social media usage, and h
 |  Saving Data                 | `df.to_csv()` |
 |  Data Types                  | `.dtypes`, `.astype()` |
 |  Querying                    | `.query()`, `.isin()` |
-| 🧹 Removing Duplicates         | `.drop_duplicates()` |
+|  Removing Duplicates         | `.drop_duplicates()` |
 
 
-## 📦 Requirements
+##  Requirements
 
-Install Pandas and NumPy
+Install Pandas and NumPy by using below commands
 
-pip install pandas numpy
-
+pip install pandas
 pip install numpy
 
 ##  Folder Structure
